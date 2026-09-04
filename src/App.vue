@@ -530,15 +530,17 @@ const quiz = (answer) => {
               INTEGRANTES DO PROJETO
             </span>
 
-            <h3>
-             Kauã Victor Lima Silva
-             Gabriel Fagundes
-             Adilson Junior
-             Edson Ferreira Souza
-             Gustavo Bernardes
-             Bryan Daniel Gonçalves
-             Kauã Gomes Bezerra
-            </h3>
+            
+<h3 class="integrantes-nomes">
+  <span>Kauã Victor Lima Silva</span>
+  <span>Gabriel Fagundes</span>
+  <span>Adilson Junior</span>
+  <span>Edson Ferreira Souza</span>
+  <span>Gustavo Bernardes</span>
+  <span>Bryan Daniel Gonçalves</span>
+  <span>Kauã Gomes Bezerra</span>
+</h3>
+
 
             <p>
               Integrantes responsáveis pela participação
@@ -1753,5 +1755,14 @@ footer p {
     padding: 25px 20px;
   }
 }
+.integrantes-nomes {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.integrantes-nomes span {
+  display: block;
+}
 </style>
-```
+
