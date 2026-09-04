@@ -532,6 +532,7 @@ const quiz = (answer) => {
 
             
 <h3 class="integrantes-nomes">
+   <span> Davi Novaes Brito</span>
   <span>Kauã Victor Lima Silva</span>
   <span>Gabriel Fagundes</span>
   <span>Adilson Junior</span>
