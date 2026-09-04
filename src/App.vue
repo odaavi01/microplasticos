@@ -532,15 +532,16 @@ const quiz = (answer) => {
 
             
 <h3 class="integrantes-nomes">
-   <span> Davi Novaes Brito</span>
-  <span>Kauã Victor Lima Silva</span>
-  <span>Gabriel Fagundes</span>
   <span>Adilson Junior</span>
-  <span>Edson Ferreira Souza</span>
-  <span>Gustavo Bernardes</span>
   <span>Bryan Daniel Gonçalves</span>
+  <span>Davi Novaes Brito</span>
+  <span>Edson Ferreira Souza</span>
+  <span>Gabriel Fagundes</span>
+  <span>Gustavo Bernardes</span>
   <span>Kauã Gomes Bezerra</span>
+  <span>Kauã Victor Lima Silva</span>
 </h3>
+
 
 
             <p>
